@@ -1,0 +1,1 @@
+In this case for data collection, we just employ a single attack radar and a passive radar. TI-AWR2944 is utilised as an attack radar, whereas TI-IWR1642 is used as a passive radar.
