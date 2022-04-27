@@ -1,0 +1,1 @@
+In this case the attack radars are two TI-AWR1642 and A TI-AWR2944 radar, whereas IWR1642 is used as a passive radar. 
