@@ -1,0 +1,1 @@
+In this case for data collection, we employ two attack radar and a passive radar. Two TI-AWR1642 radars are used as an attack radars, whereas TI-IWR1642 is used as a passive radar.
