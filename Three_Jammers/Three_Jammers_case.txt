@@ -1,1 +1,1 @@
-In this case the attack radars are two TI-AWR1642 and A TI-AWR2944 radar, whereas IWR1642 is used as a passive radar. 
+Here we have adopted two AWR1642 and an AWR2944 radar as jammers, whereas IWR1642 is used as a passive receiver. 
